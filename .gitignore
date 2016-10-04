@@ -1,6 +1,7 @@
 /settings.gradle/
 /gradlew.bat/
 /gradle/
-/gradlew/
+/gradlew*/
 /.gradle/
 /javac*/
+/build/
