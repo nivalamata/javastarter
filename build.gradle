@@ -13,7 +13,7 @@ apply plugin: 'java'
 //add manifest attribute
 jar {
     manifest {
-        attributes 'Main-Class': 'com.niafikra.Library'
+        attributes 'Main-Class': 'com.niafikra.Starter'
     }
 }
 
