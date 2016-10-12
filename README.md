@@ -38,4 +38,4 @@ task vscode(dependsOn: vscodeJavaconfigFile) {
 }
 > Then run gradlew vscode. This will generate
  javaconfig.json
- build/classpath.txt
+ build/classpath.txt 
